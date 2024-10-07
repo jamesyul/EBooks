@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Biblioteca Pública Municipal Aluche (Latina)",
+    "id": "1234A"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Ana María Matute (Carabanchel)",
+    "id": "5678B"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Ángel González (Latina)",
+    "id": "9101C"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal David Gistau (Salamanca)",
+    "id": "1121D"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Canillejas (San Blas-Canillejas)",
+    "id": "3141E"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Ciudad Lineal (Ciudad Lineal)",
+    "id": "5161F"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Benito Pérez Galdós (Centro)",
+    "id": "7181G"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Dámaso Alonso (Chamartín)",
+    "id": "9202H"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)",
+    "id": "1223I"
+  },
+  {
+    "nombre": "Biblioteca Pública Municipal Francisco Ayala (Vicálvaro)",
+    "id": "3244J"
+  }
+]
