@@ -1,11 +1,13 @@
 Sistema de Gestión de Ebooks
-🚀 Descripción General
-Ebooks es una potente aplicación de línea de comandos diseñada para gestionar eficientemente una colección de libros electrónicos. Desarrollada en Java, ofrece un conjunto robusto de funciones para que administradores, responsables y usuarios interactúen con una base de datos de ebooks en formato JSON.
-✨ Características Principales
 
-Autenticación de Usuarios: Sistema de inicio de sesión seguro con control de acceso basado en roles
-Operaciones CRUD: Crear, Leer, Actualizar y Eliminar registros de ebooks
-Permisos Basados en Roles:
+🚀 Descripción General
+   Ebooks es una potente aplicación de línea de comandos diseñada para gestionar eficientemente una colección de libros electrónicos. Desarrollada en Java, ofrece un conjunto robusto de funciones para que administradores, responsables y
+   usuarios interactúen con una base de datos de ebooks en formato JSON.
+
+✨ Características Principales
+   Autenticación de Usuarios: Sistema de inicio de sesión seguro con control de acceso basado en roles
+   Operaciones CRUD: Crear, Leer, Actualizar y Eliminar registros de ebooks
+   Permisos Basados en Roles:
 
 👑 Administrador: Acceso completo a todas las funciones y métricas
 👔 Responsable: Puede gestionar registros de ebooks
